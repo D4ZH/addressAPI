@@ -584,16 +584,3 @@ Para más información, consulta: [Nominatim Usage Policy](https://operations.os
 - 🔧 [Pydantic Documentation](https://docs.pydantic.dev/)
 
 ---
-
-## 👤 Autor
-
-- **Nombre:** Miller Angel Ferrer Diaz
-- **Fecha:** Enero 2026
-
----
-
-## 📄 Licencia
-
-MIT License
-
----
