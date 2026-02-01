@@ -1,8 +1,5 @@
 # 🗺️ Nominatim Geocoding API - Documentación Completa
 
-> **API REST para convertir direcciones a coordenadas y viceversa**  
-> Basada en Nominatim y OpenStreetMap - ¡100% Gratuita! 🎉
-
 ---
 
 ## 📋 Tabla de Contenidos
